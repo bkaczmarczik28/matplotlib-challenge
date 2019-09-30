@@ -1,2 +1,2 @@
 # matplotlib-challenge
-Homework 5 on Matplotlip by Beryl Kaczmarczik
+Homework 5 on Matplotlib by Beryl Kaczmarczik
